@@ -1,1 +1,1 @@
-# Password Generator Starter Code
+Here is my password generator! I made this project to showcase in my portfolio and build up my experience with javascript. It was amazing to see how simple, yet complex java script can be. Below you can find a screenshot of my application as well as a link to it. 
